@@ -11,6 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v3
+      - name: Install pandoc
+        run: sudo apt-get install pandoc
       - name: Install dependencies
         run: |
           pip install -r requirements_docs.txt -r requirements.txt
