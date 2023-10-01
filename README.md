@@ -27,3 +27,7 @@ Please follow Numpy's and Google's guidelines for writing docstrings.
 
 ### Testing
 It is recommended to develop test cases for new modules/classes/individual functions. These are located in the directory pyml/tests.
+To run a test execute following command in the shell:
+```sh
+python -m pyml.tests.test_knn
+```
