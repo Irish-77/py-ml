@@ -12,7 +12,7 @@ sys.path.insert(0, os.path.abspath('../..'))
 project = 'pyml'
 copyright = '2023, Bastian Berle'
 author = 'Bastian Berle'
-release = '0.0.0'
+release = '0.0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
