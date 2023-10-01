@@ -1,0 +1,7 @@
+sphinx-autobuild
+rst-to-myst[sphinx]
+nbsphinx
+myst-parser
+sphinx-autodoc-typehints
+ipython
+furo
