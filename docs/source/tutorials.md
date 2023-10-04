@@ -12,4 +12,12 @@ Let PyML be your trusted companion on your journey to mastering machine learning
 :maxdepth: 1
 
 notebooks/kNN
+notebooks/nn_classification
+```
+
+```{toctree}
+:caption: 'Computer Vision:'
+:maxdepth: 1
+
+notebooks/nn_image_classification_without_convolution
 ```
