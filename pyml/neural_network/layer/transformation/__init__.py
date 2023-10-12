@@ -7,3 +7,4 @@ from .dense import Dense
 from .dropout import Dropout
 from .input import Input
 from .reshape import Reshape, Flatten
+from .convolutional import Convolutional
