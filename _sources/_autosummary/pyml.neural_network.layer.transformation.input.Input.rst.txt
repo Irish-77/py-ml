@@ -1,0 +1,28 @@
+pyml.neural\_network.layer.transformation.input.Input
+=====================================================
+
+.. currentmodule:: pyml.neural_network.layer.transformation.input
+
+.. autoclass:: Input
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~Input.__init__
+      ~Input.backward
+      ~Input.forward
+      ~Input.set_adjacent_layers
+   
+   
+
+   
+   
+   

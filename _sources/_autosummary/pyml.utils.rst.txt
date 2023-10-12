@@ -1,0 +1,31 @@
+pyml.utils
+==========
+
+.. automodule:: pyml.utils
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+.. autosummary::
+   :toctree:
+   :template: custom-module-template.rst
+   :recursive:
+
+   pyml.utils.accuracy
+   pyml.utils.metrics
+

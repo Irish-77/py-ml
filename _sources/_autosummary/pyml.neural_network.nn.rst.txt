@@ -1,0 +1,39 @@
+pyml.neural\_network.nn
+=======================
+
+.. automodule:: pyml.neural_network.nn
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+      :toctree:
+      :template: custom-class-template.rst
+      :nosignatures:
+   
+      NN
+   
+   
+
+   
+   
+   .. rubric:: Exceptions
+
+   .. autosummary::
+      :toctree:
+   
+      InconsistentLayerSizes
+   
+   
+
+
+

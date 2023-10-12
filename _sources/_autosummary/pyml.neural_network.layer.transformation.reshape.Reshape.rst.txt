@@ -1,0 +1,28 @@
+pyml.neural\_network.layer.transformation.reshape.Reshape
+=========================================================
+
+.. currentmodule:: pyml.neural_network.layer.transformation.reshape
+
+.. autoclass:: Reshape
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~Reshape.__init__
+      ~Reshape.backward
+      ~Reshape.forward
+      ~Reshape.set_adjacent_layers
+   
+   
+
+   
+   
+   

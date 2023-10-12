@@ -1,0 +1,32 @@
+pyml.neural\_network.loss.binary\_cross\_entropy
+================================================
+
+.. automodule:: pyml.neural_network.loss.binary_cross_entropy
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+      :toctree:
+      :template: custom-class-template.rst
+      :nosignatures:
+   
+      BinaryCrossentropy
+   
+   
+
+   
+   
+   
+
+
+

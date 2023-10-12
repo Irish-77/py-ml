@@ -1,0 +1,32 @@
+pyml.neural\_network.loss.categorical\_cross\_entropy.CategoricalCrossentropy
+=============================================================================
+
+.. currentmodule:: pyml.neural_network.loss.categorical_cross_entropy
+
+.. autoclass:: CategoricalCrossentropy
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~CategoricalCrossentropy.__init__
+      ~CategoricalCrossentropy.backward
+      ~CategoricalCrossentropy.calculate
+      ~CategoricalCrossentropy.calculate_accumulated
+      ~CategoricalCrossentropy.forward
+      ~CategoricalCrossentropy.regularization_loss
+      ~CategoricalCrossentropy.reset
+      ~CategoricalCrossentropy.set_trainable_layers
+   
+   
+
+   
+   
+   

@@ -1,0 +1,29 @@
+pyml.neural\_network.layer.activation.relu.ReLU
+===============================================
+
+.. currentmodule:: pyml.neural_network.layer.activation.relu
+
+.. autoclass:: ReLU
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~ReLU.__init__
+      ~ReLU.backward
+      ~ReLU.forward
+      ~ReLU.predictions
+      ~ReLU.set_adjacent_layers
+   
+   
+
+   
+   
+   

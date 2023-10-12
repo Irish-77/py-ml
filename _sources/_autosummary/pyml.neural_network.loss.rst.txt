@@ -1,0 +1,34 @@
+pyml.neural\_network.loss
+=========================
+
+.. automodule:: pyml.neural_network.loss
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+.. autosummary::
+   :toctree:
+   :template: custom-module-template.rst
+   :recursive:
+
+   pyml.neural_network.loss.binary_cross_entropy
+   pyml.neural_network.loss.categorical_cross_entropy
+   pyml.neural_network.loss.mean_absolute_error
+   pyml.neural_network.loss.mean_squarred_error
+   pyml.neural_network.loss.softmax_loss_categorical_cross_entropy
+

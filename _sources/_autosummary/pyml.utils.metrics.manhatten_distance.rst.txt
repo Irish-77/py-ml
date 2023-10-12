@@ -1,0 +1,6 @@
+pyml.utils.metrics.manhatten\_distance
+======================================
+
+.. currentmodule:: pyml.utils.metrics
+
+.. autofunction:: manhatten_distance

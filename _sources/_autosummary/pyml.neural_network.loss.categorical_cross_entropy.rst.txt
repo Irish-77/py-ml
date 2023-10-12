@@ -1,0 +1,32 @@
+pyml.neural\_network.loss.categorical\_cross\_entropy
+=====================================================
+
+.. automodule:: pyml.neural_network.loss.categorical_cross_entropy
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+      :toctree:
+      :template: custom-class-template.rst
+      :nosignatures:
+   
+      CategoricalCrossentropy
+   
+   
+
+   
+   
+   
+
+
+

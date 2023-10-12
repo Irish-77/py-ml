@@ -1,0 +1,32 @@
+pyml.utils.metrics
+==================
+
+.. automodule:: pyml.utils.metrics
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+      :toctree:
+      :nosignatures:
+   
+      euclidean_distance
+      manhatten_distance
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

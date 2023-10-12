@@ -1,0 +1,33 @@
+pyml.neighbors.knn.kNNClassifier
+================================
+
+.. currentmodule:: pyml.neighbors.knn
+
+.. autoclass:: kNNClassifier
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~kNNClassifier.__init__
+      ~kNNClassifier.fit
+      ~kNNClassifier.predict
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~kNNClassifier.metrics
+   
+   

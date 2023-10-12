@@ -1,0 +1,6 @@
+pyml.exceptions.excpetions.ShapeError
+=====================================
+
+.. currentmodule:: pyml.exceptions.excpetions
+
+.. autoexception:: ShapeError

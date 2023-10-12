@@ -1,0 +1,6 @@
+pyml.exceptions.excpetions.HyperparametersNotSpecified
+======================================================
+
+.. currentmodule:: pyml.exceptions.excpetions
+
+.. autoexception:: HyperparametersNotSpecified

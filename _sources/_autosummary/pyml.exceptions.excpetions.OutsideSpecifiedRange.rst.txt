@@ -1,0 +1,6 @@
+pyml.exceptions.excpetions.OutsideSpecifiedRange
+================================================
+
+.. currentmodule:: pyml.exceptions.excpetions
+
+.. autoexception:: OutsideSpecifiedRange

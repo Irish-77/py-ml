@@ -1,0 +1,28 @@
+pyml.neural\_network.optimizer.rmsprop.RMSProp
+==============================================
+
+.. currentmodule:: pyml.neural_network.optimizer.rmsprop
+
+.. autoclass:: RMSProp
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~RMSProp.__init__
+      ~RMSProp.post_update_parameters
+      ~RMSProp.pre_update_parameters
+      ~RMSProp.update_parameters
+   
+   
+
+   
+   
+   

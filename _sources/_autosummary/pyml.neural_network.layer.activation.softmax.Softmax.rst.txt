@@ -1,0 +1,29 @@
+pyml.neural\_network.layer.activation.softmax.Softmax
+=====================================================
+
+.. currentmodule:: pyml.neural_network.layer.activation.softmax
+
+.. autoclass:: Softmax
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~Softmax.__init__
+      ~Softmax.backward
+      ~Softmax.forward
+      ~Softmax.predictions
+      ~Softmax.set_adjacent_layers
+   
+   
+
+   
+   
+   

@@ -1,0 +1,31 @@
+pyml.neural\_network.layer
+==========================
+
+.. automodule:: pyml.neural_network.layer
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+.. autosummary::
+   :toctree:
+   :template: custom-module-template.rst
+   :recursive:
+
+   pyml.neural_network.layer.activation
+   pyml.neural_network.layer.transformation
+

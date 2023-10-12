@@ -1,0 +1,34 @@
+pyml.utils.accuracy
+===================
+
+.. automodule:: pyml.utils.accuracy
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+      :toctree:
+      :template: custom-class-template.rst
+      :nosignatures:
+   
+      BinaryClassAccuracy
+      MultiClassAccuracy
+      RegressionAccuracy
+   
+   
+
+   
+   
+   
+
+
+

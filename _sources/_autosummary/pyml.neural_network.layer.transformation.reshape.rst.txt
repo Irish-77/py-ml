@@ -1,0 +1,33 @@
+pyml.neural\_network.layer.transformation.reshape
+=================================================
+
+.. automodule:: pyml.neural_network.layer.transformation.reshape
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+      :toctree:
+      :template: custom-class-template.rst
+      :nosignatures:
+   
+      Flatten
+      Reshape
+   
+   
+
+   
+   
+   
+
+
+

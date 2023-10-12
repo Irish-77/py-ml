@@ -1,0 +1,6 @@
+pyml.neighbors.knn.UnknownMetric
+================================
+
+.. currentmodule:: pyml.neighbors.knn
+
+.. autoexception:: UnknownMetric

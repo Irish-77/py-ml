@@ -1,0 +1,33 @@
+pyml.neural\_network.optimizer
+==============================
+
+.. automodule:: pyml.neural_network.optimizer
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+.. autosummary::
+   :toctree:
+   :template: custom-module-template.rst
+   :recursive:
+
+   pyml.neural_network.optimizer.adagrad
+   pyml.neural_network.optimizer.adam
+   pyml.neural_network.optimizer.rmsprop
+   pyml.neural_network.optimizer.sgd
+

@@ -1,0 +1,32 @@
+pyml.exceptions.excpetions
+==========================
+
+.. automodule:: pyml.exceptions.excpetions
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Exceptions
+
+   .. autosummary::
+      :toctree:
+   
+      HyperparametersNotSpecified
+      OutsideSpecifiedRange
+      ShapeError
+   
+   
+
+
+

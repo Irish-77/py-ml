@@ -1,0 +1,30 @@
+pyml.neural\_network.layer.transformation.dense.Dense
+=====================================================
+
+.. currentmodule:: pyml.neural_network.layer.transformation.dense
+
+.. autoclass:: Dense
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~Dense.__init__
+      ~Dense.backward
+      ~Dense.forward
+      ~Dense.get_parameters
+      ~Dense.set_adjacent_layers
+      ~Dense.set_parameters
+   
+   
+
+   
+   
+   

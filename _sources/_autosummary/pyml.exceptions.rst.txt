@@ -1,0 +1,30 @@
+pyml.exceptions
+===============
+
+.. automodule:: pyml.exceptions
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+.. autosummary::
+   :toctree:
+   :template: custom-module-template.rst
+   :recursive:
+
+   pyml.exceptions.excpetions
+

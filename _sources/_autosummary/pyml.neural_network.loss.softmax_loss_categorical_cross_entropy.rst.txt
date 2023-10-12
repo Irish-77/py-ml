@@ -1,0 +1,32 @@
+pyml.neural\_network.loss.softmax\_loss\_categorical\_cross\_entropy
+====================================================================
+
+.. automodule:: pyml.neural_network.loss.softmax_loss_categorical_cross_entropy
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+      :toctree:
+      :template: custom-class-template.rst
+      :nosignatures:
+   
+      Softmax_CategoricalCrossentropy
+   
+   
+
+   
+   
+   
+
+
+

@@ -1,0 +1,28 @@
+pyml.neural\_network.layer.transformation.reshape.Flatten
+=========================================================
+
+.. currentmodule:: pyml.neural_network.layer.transformation.reshape
+
+.. autoclass:: Flatten
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~Flatten.__init__
+      ~Flatten.backward
+      ~Flatten.forward
+      ~Flatten.set_adjacent_layers
+   
+   
+
+   
+   
+   

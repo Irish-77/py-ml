@@ -1,0 +1,33 @@
+﻿pyml
+====
+
+.. automodule:: pyml
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+.. autosummary::
+   :toctree:
+   :template: custom-module-template.rst
+   :recursive:
+
+   pyml.exceptions
+   pyml.neighbors
+   pyml.neural_network
+   pyml.utils
+

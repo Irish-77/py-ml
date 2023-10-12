@@ -1,0 +1,29 @@
+pyml.neural\_network.layer.activation.tanh.Tanh
+===============================================
+
+.. currentmodule:: pyml.neural_network.layer.activation.tanh
+
+.. autoclass:: Tanh
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~Tanh.__init__
+      ~Tanh.backward
+      ~Tanh.forward
+      ~Tanh.predictions
+      ~Tanh.set_adjacent_layers
+   
+   
+
+   
+   
+   

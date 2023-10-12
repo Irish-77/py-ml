@@ -1,0 +1,32 @@
+pyml.neural\_network.optimizer.sgd
+==================================
+
+.. automodule:: pyml.neural_network.optimizer.sgd
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+      :toctree:
+      :template: custom-class-template.rst
+      :nosignatures:
+   
+      SGD
+   
+   
+
+   
+   
+   
+
+
+

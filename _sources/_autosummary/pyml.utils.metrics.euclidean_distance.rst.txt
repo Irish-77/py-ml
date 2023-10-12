@@ -1,0 +1,6 @@
+pyml.utils.metrics.euclidean\_distance
+======================================
+
+.. currentmodule:: pyml.utils.metrics
+
+.. autofunction:: euclidean_distance

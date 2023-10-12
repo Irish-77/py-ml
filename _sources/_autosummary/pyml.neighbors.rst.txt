@@ -1,0 +1,30 @@
+pyml.neighbors
+==============
+
+.. automodule:: pyml.neighbors
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+.. autosummary::
+   :toctree:
+   :template: custom-module-template.rst
+   :recursive:
+
+   pyml.neighbors.knn
+

@@ -1,0 +1,28 @@
+pyml.neural\_network.optimizer.adagrad.Adagrad
+==============================================
+
+.. currentmodule:: pyml.neural_network.optimizer.adagrad
+
+.. autoclass:: Adagrad
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~Adagrad.__init__
+      ~Adagrad.post_update_parameters
+      ~Adagrad.pre_update_parameters
+      ~Adagrad.update_parameters
+   
+   
+
+   
+   
+   

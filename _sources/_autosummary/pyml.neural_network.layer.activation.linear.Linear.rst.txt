@@ -1,0 +1,29 @@
+pyml.neural\_network.layer.activation.linear.Linear
+===================================================
+
+.. currentmodule:: pyml.neural_network.layer.activation.linear
+
+.. autoclass:: Linear
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~Linear.__init__
+      ~Linear.backward
+      ~Linear.forward
+      ~Linear.predictions
+      ~Linear.set_adjacent_layers
+   
+   
+
+   
+   
+   

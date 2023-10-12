@@ -1,0 +1,6 @@
+pyml.neural\_network.nn.InconsistentLayerSizes
+==============================================
+
+.. currentmodule:: pyml.neural_network.nn
+
+.. autoexception:: InconsistentLayerSizes

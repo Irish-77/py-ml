@@ -1,0 +1,33 @@
+pyml.neural\_network.layer.transformation.convolutional.Convolutional
+=====================================================================
+
+.. currentmodule:: pyml.neural_network.layer.transformation.convolutional
+
+.. autoclass:: Convolutional
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~Convolutional.__init__
+      ~Convolutional.apply_kernel
+      ~Convolutional.apply_padding
+      ~Convolutional.apply_striding
+      ~Convolutional.backward
+      ~Convolutional.forward
+      ~Convolutional.get_parameters
+      ~Convolutional.set_adjacent_layers
+      ~Convolutional.set_parameters
+   
+   
+
+   
+   
+   

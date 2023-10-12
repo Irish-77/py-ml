@@ -1,0 +1,34 @@
+pyml.neural\_network.layer.activation
+=====================================
+
+.. automodule:: pyml.neural_network.layer.activation
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+.. autosummary::
+   :toctree:
+   :template: custom-module-template.rst
+   :recursive:
+
+   pyml.neural_network.layer.activation.linear
+   pyml.neural_network.layer.activation.relu
+   pyml.neural_network.layer.activation.sigmoid
+   pyml.neural_network.layer.activation.softmax
+   pyml.neural_network.layer.activation.tanh
+

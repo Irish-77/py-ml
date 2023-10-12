@@ -1,0 +1,28 @@
+pyml.neural\_network.optimizer.adam.Adam
+========================================
+
+.. currentmodule:: pyml.neural_network.optimizer.adam
+
+.. autoclass:: Adam
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~Adam.__init__
+      ~Adam.post_update_parameters
+      ~Adam.pre_update_parameters
+      ~Adam.update_parameters
+   
+   
+
+   
+   
+   

@@ -1,0 +1,28 @@
+pyml.neural\_network.optimizer.sgd.SGD
+======================================
+
+.. currentmodule:: pyml.neural_network.optimizer.sgd
+
+.. autoclass:: SGD
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~SGD.__init__
+      ~SGD.post_update_parameters
+      ~SGD.pre_update_parameters
+      ~SGD.update_parameters
+   
+   
+
+   
+   
+   

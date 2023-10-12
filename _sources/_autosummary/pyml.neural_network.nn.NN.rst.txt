@@ -1,0 +1,43 @@
+pyml.neural\_network.nn.NN
+==========================
+
+.. currentmodule:: pyml.neural_network.nn
+
+.. autoclass:: NN
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~NN.__init__
+      ~NN.add_layer
+      ~NN.backward
+      ~NN.build
+      ~NN.check_hyperparameters
+      ~NN.evaluate
+      ~NN.forward
+      ~NN.get_model_parameters
+      ~NN.load
+      ~NN.load_model_parameters
+      ~NN.predict
+      ~NN.print_summary
+      ~NN.save_model
+      ~NN.save_model_parameters
+      ~NN.set_accuracy
+      ~NN.set_loss
+      ~NN.set_model_parameters
+      ~NN.set_optimizer
+      ~NN.train
+   
+   
+
+   
+   
+   

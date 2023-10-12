@@ -1,0 +1,32 @@
+pyml.neural\_network.loss.binary\_cross\_entropy.BinaryCrossentropy
+===================================================================
+
+.. currentmodule:: pyml.neural_network.loss.binary_cross_entropy
+
+.. autoclass:: BinaryCrossentropy
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~BinaryCrossentropy.__init__
+      ~BinaryCrossentropy.backward
+      ~BinaryCrossentropy.calculate
+      ~BinaryCrossentropy.calculate_accumulated
+      ~BinaryCrossentropy.forward
+      ~BinaryCrossentropy.regularization_loss
+      ~BinaryCrossentropy.reset
+      ~BinaryCrossentropy.set_trainable_layers
+   
+   
+
+   
+   
+   

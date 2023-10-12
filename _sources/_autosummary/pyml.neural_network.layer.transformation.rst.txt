@@ -1,0 +1,34 @@
+pyml.neural\_network.layer.transformation
+=========================================
+
+.. automodule:: pyml.neural_network.layer.transformation
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+.. autosummary::
+   :toctree:
+   :template: custom-module-template.rst
+   :recursive:
+
+   pyml.neural_network.layer.transformation.convolutional
+   pyml.neural_network.layer.transformation.dense
+   pyml.neural_network.layer.transformation.dropout
+   pyml.neural_network.layer.transformation.input
+   pyml.neural_network.layer.transformation.reshape
+

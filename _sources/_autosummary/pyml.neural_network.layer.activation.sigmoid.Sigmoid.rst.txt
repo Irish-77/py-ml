@@ -1,0 +1,29 @@
+pyml.neural\_network.layer.activation.sigmoid.Sigmoid
+=====================================================
+
+.. currentmodule:: pyml.neural_network.layer.activation.sigmoid
+
+.. autoclass:: Sigmoid
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~Sigmoid.__init__
+      ~Sigmoid.backward
+      ~Sigmoid.forward
+      ~Sigmoid.predictions
+      ~Sigmoid.set_adjacent_layers
+   
+   
+
+   
+   
+   

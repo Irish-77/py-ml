@@ -1,0 +1,26 @@
+pyml.neural\_network.loss.softmax\_loss\_categorical\_cross\_entropy.Softmax\_CategoricalCrossentropy
+=====================================================================================================
+
+.. currentmodule:: pyml.neural_network.loss.softmax_loss_categorical_cross_entropy
+
+.. autoclass:: Softmax_CategoricalCrossentropy
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~Softmax_CategoricalCrossentropy.__init__
+      ~Softmax_CategoricalCrossentropy.backward
+   
+   
+
+   
+   
+   

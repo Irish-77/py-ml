@@ -1,0 +1,30 @@
+pyml.utils.accuracy.MultiClassAccuracy
+======================================
+
+.. currentmodule:: pyml.utils.accuracy
+
+.. autoclass:: MultiClassAccuracy
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~MultiClassAccuracy.__init__
+      ~MultiClassAccuracy.calculate
+      ~MultiClassAccuracy.calculate_accumulated
+      ~MultiClassAccuracy.compare
+      ~MultiClassAccuracy.init
+      ~MultiClassAccuracy.reset
+   
+   
+
+   
+   
+   

@@ -1,0 +1,39 @@
+pyml.neighbors.knn
+==================
+
+.. automodule:: pyml.neighbors.knn
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+      :toctree:
+      :template: custom-class-template.rst
+      :nosignatures:
+   
+      kNNClassifier
+   
+   
+
+   
+   
+   .. rubric:: Exceptions
+
+   .. autosummary::
+      :toctree:
+   
+      UnknownMetric
+   
+   
+
+
+

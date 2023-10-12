@@ -1,0 +1,28 @@
+pyml.neural\_network.layer.transformation.dropout.Dropout
+=========================================================
+
+.. currentmodule:: pyml.neural_network.layer.transformation.dropout
+
+.. autoclass:: Dropout
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~Dropout.__init__
+      ~Dropout.backward
+      ~Dropout.forward
+      ~Dropout.set_adjacent_layers
+   
+   
+
+   
+   
+   

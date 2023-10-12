@@ -1,0 +1,30 @@
+pyml.utils.accuracy.RegressionAccuracy
+======================================
+
+.. currentmodule:: pyml.utils.accuracy
+
+.. autoclass:: RegressionAccuracy
+   :members:
+   :show-inheritance:
+   :inherited-members:
+   :special-members: __call__, __add__, __mul__
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :nosignatures:
+   
+      ~RegressionAccuracy.__init__
+      ~RegressionAccuracy.calculate
+      ~RegressionAccuracy.calculate_accumulated
+      ~RegressionAccuracy.compare
+      ~RegressionAccuracy.init
+      ~RegressionAccuracy.reset
+   
+   
+
+   
+   
+   
