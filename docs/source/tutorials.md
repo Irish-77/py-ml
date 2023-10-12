@@ -20,4 +20,5 @@ notebooks/nn_classification
 :maxdepth: 1
 
 notebooks/nn_image_classification_without_convolution
+notebooks/nn_image_classification_with_convolution
 ```
