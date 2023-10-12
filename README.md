@@ -31,3 +31,10 @@ To run a test execute following command in the shell:
 ```sh
 python -m pyml.tests.test_knn
 ```
+
+### Open To-Dos
+- [ ] Outsource the reset process for every layer to each the layers class
+- [x] Convolutional neural networks
+- [ ] Add pooling 
+- [ ] Basic forecasting algorithms
+- [ ] Change weight init to uniform
