@@ -157,7 +157,7 @@ class Dense(_Transformation, _TrainableTransformation):
         """
         return self.weights, self.biases
 
-    def set_parameters(self, weights:np.ndarray, biases:np.ndarray):
+    def set_parameters(self, weights:np.ndarray, biases:np.ndarray) -> None:
         """Sets the parameters for this layer
 
         Parameters
